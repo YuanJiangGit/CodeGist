@@ -1,0 +1,241 @@
+[slimcode_target35p8_space_envkey] loaded 80 from D:\1_1\CodeRAG-Bench\generation\results\repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627-exec-metrics.json.intermediate; pending=293; pass@1_so_far=0.4250
+Starting 8 workers for 293 pending evaluations. Cache root: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8
+Progress: 0/293 completed; 0/8 workers ready.
+Worker 0 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Worker 4 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Worker 6 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Worker 3 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Worker 1 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Worker 5 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Worker 7 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Worker 2 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Progress: 2/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress: 4/293 completed; 8/8 workers ready.
+Progress 5/293; slimcode_target35p8_space_envkey: 35/85=0.4118, timeout=29
+Progress: 7/293 completed; 8/8 workers ready.
+Progress 10/293; slimcode_target35p8_space_envkey: 40/90=0.4444, timeout=29
+Progress 15/293; slimcode_target35p8_space_envkey: 42/95=0.4421, timeout=29
+Progress 20/293; slimcode_target35p8_space_envkey: 42/100=0.4200, timeout=29
+Progress: 21/293 completed; 8/8 workers ready.
+Progress: 24/293 completed; 8/8 workers ready.
+Progress 25/293; slimcode_target35p8_space_envkey: 42/105=0.4000, timeout=29
+Progress: 26/293 completed; 8/8 workers ready.
+Progress 30/293; slimcode_target35p8_space_envkey: 44/110=0.4000, timeout=29
+Progress: 30/293 completed; 8/8 workers ready.
+Progress: 30/293 completed; 8/8 workers ready.
+Progress: 30/293 completed; 8/8 workers ready.
+Progress: 30/293 completed; 8/8 workers ready.
+Progress: 32/293 completed; 8/8 workers ready.
+Progress: 34/293 completed; 8/8 workers ready.
+Progress 35/293; slimcode_target35p8_space_envkey: 44/115=0.3826, timeout=33
+Progress: 36/293 completed; 8/8 workers ready.
+Progress 40/293; slimcode_target35p8_space_envkey: 45/120=0.3750, timeout=36
+Progress: 41/293 completed; 8/8 workers ready.
+Progress: 41/293 completed; 8/8 workers ready.
+Progress: 42/293 completed; 8/8 workers ready.
+Progress: 42/293 completed; 8/8 workers ready.
+Progress: 42/293 completed; 8/8 workers ready.
+Progress: 42/293 completed; 8/8 workers ready.
+Progress: 44/293 completed; 8/8 workers ready.
+Progress 45/293; slimcode_target35p8_space_envkey: 46/125=0.3680, timeout=40
+Progress: 46/293 completed; 8/8 workers ready.
+Progress: 49/293 completed; 8/8 workers ready.
+Progress 50/293; slimcode_target35p8_space_envkey: 47/130=0.3615, timeout=43
+Progress: 51/293 completed; 8/8 workers ready.
+Progress: 52/293 completed; 8/8 workers ready.
+Progress: 52/293 completed; 8/8 workers ready.
+Progress: 52/293 completed; 8/8 workers ready.
+Progress: 52/293 completed; 8/8 workers ready.
+Progress: 54/293 completed; 8/8 workers ready.
+Progress 55/293; slimcode_target35p8_space_envkey: 49/135=0.3630, timeout=45
+Progress: 55/293 completed; 8/8 workers ready.
+Progress: 59/293 completed; 8/8 workers ready.
+Progress 60/293; slimcode_target35p8_space_envkey: 53/140=0.3786, timeout=45
+Progress: 62/293 completed; 8/8 workers ready.
+Progress: 63/293 completed; 8/8 workers ready.
+Progress: 63/293 completed; 8/8 workers ready.
+Progress 65/293; slimcode_target35p8_space_envkey: 57/145=0.3931, timeout=45
+Progress: 66/293 completed; 8/8 workers ready.
+Progress 70/293; slimcode_target35p8_space_envkey: 61/150=0.4067, timeout=45
+Progress: 73/293 completed; 8/8 workers ready.
+Progress 75/293; slimcode_target35p8_space_envkey: 66/155=0.4258, timeout=45
+Progress: 79/293 completed; 8/8 workers ready.
+Progress 80/293; slimcode_target35p8_space_envkey: 69/160=0.4313, timeout=45
+Progress 85/293; slimcode_target35p8_space_envkey: 71/165=0.4303, timeout=45
+Progress: 86/293 completed; 8/8 workers ready.
+Progress 90/293; slimcode_target35p8_space_envkey: 73/170=0.4294, timeout=45
+Progress 95/293; slimcode_target35p8_space_envkey: 75/175=0.4286, timeout=45
+Progress: 97/293 completed; 8/8 workers ready.
+Progress 100/293; slimcode_target35p8_space_envkey: 79/180=0.4389, timeout=45
+Progress: 101/293 completed; 8/8 workers ready.
+Progress 105/293; slimcode_target35p8_space_envkey: 81/185=0.4378, timeout=45
+Progress: 109/293 completed; 8/8 workers ready.
+Progress 110/293; slimcode_target35p8_space_envkey: 83/190=0.4368, timeout=45
+Progress 115/293; slimcode_target35p8_space_envkey: 86/195=0.4410, timeout=45
+Progress: 117/293 completed; 8/8 workers ready.
+Progress: 119/293 completed; 8/8 workers ready.
+Progress: 119/293 completed; 8/8 workers ready.
+Progress 120/293; slimcode_target35p8_space_envkey: 89/200=0.4450, timeout=45
+Progress 125/293; slimcode_target35p8_space_envkey: 91/205=0.4439, timeout=45
+Progress: 127/293 completed; 8/8 workers ready.
+Progress 130/293; slimcode_target35p8_space_envkey: 93/210=0.4429, timeout=45
+Progress: 131/293 completed; 8/8 workers ready.
+Progress 135/293; slimcode_target35p8_space_envkey: 95/215=0.4419, timeout=45
+Progress 140/293; slimcode_target35p8_space_envkey: 99/220=0.4500, timeout=45
+Progress 145/293; slimcode_target35p8_space_envkey: 102/225=0.4533, timeout=45
+Progress: 147/293 completed; 8/8 workers ready.
+Progress: 149/293 completed; 8/8 workers ready.
+Progress: 149/293 completed; 8/8 workers ready.
+Progress 150/293; slimcode_target35p8_space_envkey: 105/230=0.4565, timeout=45
+Progress: 154/293 completed; 8/8 workers ready.
+Progress: 154/293 completed; 8/8 workers ready.
+Progress: 154/293 completed; 8/8 workers ready.
+Progress: 154/293 completed; 8/8 workers ready.
+Progress 155/293; slimcode_target35p8_space_envkey: 105/235=0.4468, timeout=46
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 155/293 completed; 8/8 workers ready.
+Progress: 156/293 completed; 8/8 workers ready.
+Progress: 158/293 completed; 8/8 workers ready.
+Progress 160/293; slimcode_target35p8_space_envkey: 107/240=0.4458, timeout=46
+Progress: 160/293 completed; 8/8 workers ready.
+Progress: 160/293 completed; 8/8 workers ready.
+Progress: 164/293 completed; 8/8 workers ready.
+Progress 165/293; slimcode_target35p8_space_envkey: 111/245=0.4531, timeout=46
+Progress: 165/293 completed; 8/8 workers ready.
+Progress: 167/293 completed; 8/8 workers ready.
+Progress: 168/293 completed; 8/8 workers ready.
+Progress: 168/293 completed; 8/8 workers ready.
+Progress: 168/293 completed; 8/8 workers ready.
+Progress: 168/293 completed; 8/8 workers ready.
+Progress: 169/293 completed; 8/8 workers ready.
+Progress: 169/293 completed; 8/8 workers ready.
+Progress 170/293; slimcode_target35p8_space_envkey: 113/250=0.4520, timeout=46
+Progress: 171/293 completed; 8/8 workers ready.
+Progress: 174/293 completed; 8/8 workers ready.
+Progress 175/293; slimcode_target35p8_space_envkey: 115/255=0.4510, timeout=46
+Progress: 175/293 completed; 8/8 workers ready.
+Progress: 175/293 completed; 8/8 workers ready.
+Progress: 175/293 completed; 8/8 workers ready.
+Progress: 178/293 completed; 8/8 workers ready.
+Progress: 178/293 completed; 8/8 workers ready.
+Progress 180/293; slimcode_target35p8_space_envkey: 118/260=0.4538, timeout=46
+Progress: 180/293 completed; 8/8 workers ready.
+Progress: 182/293 completed; 8/8 workers ready.
+Progress: 184/293 completed; 8/8 workers ready.
+Progress 185/293; slimcode_target35p8_space_envkey: 121/265=0.4566, timeout=46
+Progress: 188/293 completed; 8/8 workers ready.
+Progress 190/293; slimcode_target35p8_space_envkey: 125/270=0.4630, timeout=46
+Progress: 191/293 completed; 8/8 workers ready.
+Progress 195/293; slimcode_target35p8_space_envkey: 130/275=0.4727, timeout=46
+Progress: 197/293 completed; 8/8 workers ready.
+Progress 200/293; slimcode_target35p8_space_envkey: 134/280=0.4786, timeout=46
+Progress 205/293; slimcode_target35p8_space_envkey: 138/285=0.4842, timeout=46
+Progress: 206/293 completed; 8/8 workers ready.
+Progress: 208/293 completed; 8/8 workers ready.
+Progress 210/293; slimcode_target35p8_space_envkey: 143/290=0.4931, timeout=46
+Progress 215/293; slimcode_target35p8_space_envkey: 146/295=0.4949, timeout=46
+Progress: 216/293 completed; 8/8 workers ready.
+Progress 220/293; slimcode_target35p8_space_envkey: 147/300=0.4900, timeout=46
+Progress 225/293; slimcode_target35p8_space_envkey: 150/305=0.4918, timeout=46
+Progress: 225/293 completed; 8/8 workers ready.
+Progress 230/293; slimcode_target35p8_space_envkey: 154/310=0.4968, timeout=46
+Progress: 233/293 completed; 8/8 workers ready.
+Progress 235/293; slimcode_target35p8_space_envkey: 158/315=0.5016, timeout=46
+Progress 240/293; slimcode_target35p8_space_envkey: 159/320=0.4969, timeout=46
+Progress: 242/293 completed; 8/8 workers ready.
+Progress 245/293; slimcode_target35p8_space_envkey: 163/325=0.5015, timeout=46
+Progress 250/293; slimcode_target35p8_space_envkey: 165/330=0.5000, timeout=46
+Progress 255/293; slimcode_target35p8_space_envkey: 166/335=0.4955, timeout=46
+Progress 260/293; slimcode_target35p8_space_envkey: 166/340=0.4882, timeout=46
+Progress 265/293; slimcode_target35p8_space_envkey: 166/345=0.4812, timeout=46
+Progress 270/293; slimcode_target35p8_space_envkey: 168/350=0.4800, timeout=46
+Progress 275/293; slimcode_target35p8_space_envkey: 169/355=0.4761, timeout=46
+Progress 280/293; slimcode_target35p8_space_envkey: 170/360=0.4722, timeout=46
+Progress 285/293; slimcode_target35p8_space_envkey: 172/365=0.4712, timeout=46
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 0 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 7 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 2 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 3 done.
+Progress: 289/293 completed; 8/8 workers ready.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Progress 290/293; slimcode_target35p8_space_envkey: 176/370=0.4757, timeout=46
+Worker 5 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 6 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 4 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-slimcode-target35p8-space-oldprompt-temp0-envkey-c5-20260627_w8\worker1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Progress 293/293; slimcode_target35p8_space_envkey: 178/373=0.4772, timeout=46
+Worker 1 done.
+[slimcode_target35p8_space_envkey] final {'Pass@1': 0.4772117962466488, 'Num_computed': 373, 'Num_success': 178, 'Num_failed': 149, 'Num_timeout': 46, 'Num_error': 0}

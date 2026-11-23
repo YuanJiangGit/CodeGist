@@ -1,0 +1,16 @@
+{
+  "baseline": "SlimCode-Python adapted baseline",
+  "delete_categories": [
+    "symbol",
+    "beyond_category"
+  ],
+  "input_dir": "D:/1_1/CodeRAG-Bench/tmp/repoeval_bm25_filetop5_noleak_doc_instances/input",
+  "output_dir": "related_work/SlimCodePython/results/repoeval_bm25_slimcode_python_default",
+  "files_compressed": 1865,
+  "files_skipped": 0,
+  "orig_tokens_total": 5312854,
+  "comp_tokens_total": 3968921,
+  "compression_ratio": 0.25295890043682545,
+  "compression_ratio_percent": 25.3,
+  "note": "This is a token-sketch baseline and does not guarantee syntactically valid Python output."
+}

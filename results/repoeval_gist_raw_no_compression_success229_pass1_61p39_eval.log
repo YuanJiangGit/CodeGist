@@ -1,0 +1,271 @@
+[gist_raw_gpt54_fixedmerge] loaded 0 from empty; pending=373; pass@1_so_far=0.0000
+Starting 8 workers for 373 pending evaluations. Cache root: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8
+Worker 1 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Worker 2 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Worker 7 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Worker 0 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Worker 4 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Worker 3 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Worker 5 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Worker 6 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Progress: 3/373 completed; 8/8 workers ready.
+Progress: 4/373 completed; 8/8 workers ready.
+Progress 5/373; gist_raw_gpt54_fixedmerge: 4/5=0.8000, timeout=0
+Progress 10/373; gist_raw_gpt54_fixedmerge: 9/10=0.9000, timeout=0
+Progress 15/373; gist_raw_gpt54_fixedmerge: 13/15=0.8667, timeout=0
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 16/373 completed; 8/8 workers ready.
+Progress: 17/373 completed; 8/8 workers ready.
+Progress 20/373; gist_raw_gpt54_fixedmerge: 14/20=0.7000, timeout=4
+Progress 25/373; gist_raw_gpt54_fixedmerge: 16/25=0.6400, timeout=7
+Progress: 25/373 completed; 8/8 workers ready.
+Progress: 27/373 completed; 8/8 workers ready.
+Progress: 27/373 completed; 8/8 workers ready.
+Progress: 27/373 completed; 8/8 workers ready.
+Progress: 27/373 completed; 8/8 workers ready.
+Progress 30/373; gist_raw_gpt54_fixedmerge: 18/30=0.6000, timeout=10
+Progress 35/373; gist_raw_gpt54_fixedmerge: 23/35=0.6571, timeout=10
+Progress: 38/373 completed; 8/8 workers ready.
+Progress: 38/373 completed; 8/8 workers ready.
+Progress 40/373; gist_raw_gpt54_fixedmerge: 26/40=0.6500, timeout=12
+Progress 45/373; gist_raw_gpt54_fixedmerge: 28/45=0.6222, timeout=14
+Progress: 48/373 completed; 8/8 workers ready.
+Progress: 48/373 completed; 8/8 workers ready.
+Progress: 48/373 completed; 8/8 workers ready.
+Progress: 48/373 completed; 8/8 workers ready.
+Progress: 49/373 completed; 8/8 workers ready.
+Progress 50/373; gist_raw_gpt54_fixedmerge: 33/50=0.6600, timeout=14
+Progress: 50/373 completed; 8/8 workers ready.
+Progress: 51/373 completed; 8/8 workers ready.
+Progress 55/373; gist_raw_gpt54_fixedmerge: 36/55=0.6545, timeout=14
+Progress: 57/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 59/373 completed; 8/8 workers ready.
+Progress 60/373; gist_raw_gpt54_fixedmerge: 39/60=0.6500, timeout=14
+Progress: 60/373 completed; 8/8 workers ready.
+Progress: 60/373 completed; 8/8 workers ready.
+Progress: 60/373 completed; 8/8 workers ready.
+Progress 65/373; gist_raw_gpt54_fixedmerge: 42/65=0.6462, timeout=14
+Progress: 67/373 completed; 8/8 workers ready.
+Progress 70/373; gist_raw_gpt54_fixedmerge: 43/70=0.6143, timeout=14
+Progress: 70/373 completed; 8/8 workers ready.
+Progress: 72/373 completed; 8/8 workers ready.
+Progress 75/373; gist_raw_gpt54_fixedmerge: 44/75=0.5867, timeout=14
+Progress: 77/373 completed; 8/8 workers ready.
+Progress 80/373; gist_raw_gpt54_fixedmerge: 45/80=0.5625, timeout=14
+Progress 85/373; gist_raw_gpt54_fixedmerge: 47/85=0.5529, timeout=14
+Progress: 87/373 completed; 8/8 workers ready.
+Progress 90/373; gist_raw_gpt54_fixedmerge: 48/90=0.5333, timeout=14
+Progress: 90/373 completed; 8/8 workers ready.
+Progress 95/373; gist_raw_gpt54_fixedmerge: 48/95=0.5053, timeout=14
+Progress 100/373; gist_raw_gpt54_fixedmerge: 51/100=0.5100, timeout=14
+Progress: 100/373 completed; 8/8 workers ready.
+Progress: 101/373 completed; 8/8 workers ready.
+Progress: 101/373 completed; 8/8 workers ready.
+Progress 105/373; gist_raw_gpt54_fixedmerge: 55/105=0.5238, timeout=14
+Progress: 106/373 completed; 8/8 workers ready.
+Progress: 107/373 completed; 8/8 workers ready.
+Progress 110/373; gist_raw_gpt54_fixedmerge: 58/110=0.5273, timeout=14
+Progress: 114/373 completed; 8/8 workers ready.
+Progress 115/373; gist_raw_gpt54_fixedmerge: 60/115=0.5217, timeout=14
+Progress: 116/373 completed; 8/8 workers ready.
+Progress: 116/373 completed; 8/8 workers ready.
+Progress: 118/373 completed; 8/8 workers ready.
+Progress: 119/373 completed; 8/8 workers ready.
+Progress 120/373; gist_raw_gpt54_fixedmerge: 64/120=0.5333, timeout=14
+Progress: 123/373 completed; 8/8 workers ready.
+Progress: 124/373 completed; 8/8 workers ready.
+Progress 125/373; gist_raw_gpt54_fixedmerge: 68/125=0.5440, timeout=14
+Progress: 126/373 completed; 8/8 workers ready.
+Progress: 126/373 completed; 8/8 workers ready.
+Progress: 128/373 completed; 8/8 workers ready.
+Progress: 129/373 completed; 8/8 workers ready.
+Progress 130/373; gist_raw_gpt54_fixedmerge: 73/130=0.5615, timeout=14
+Progress: 131/373 completed; 8/8 workers ready.
+Progress: 132/373 completed; 8/8 workers ready.
+Progress: 133/373 completed; 8/8 workers ready.
+Progress 135/373; gist_raw_gpt54_fixedmerge: 78/135=0.5778, timeout=14
+Progress: 135/373 completed; 8/8 workers ready.
+Progress: 135/373 completed; 8/8 workers ready.
+Progress: 137/373 completed; 8/8 workers ready.
+Progress: 139/373 completed; 8/8 workers ready.
+Progress 140/373; gist_raw_gpt54_fixedmerge: 82/140=0.5857, timeout=14
+Progress: 141/373 completed; 8/8 workers ready.
+Progress: 143/373 completed; 8/8 workers ready.
+Progress 145/373; gist_raw_gpt54_fixedmerge: 86/145=0.5931, timeout=14
+Progress: 145/373 completed; 8/8 workers ready.
+Progress 150/373; gist_raw_gpt54_fixedmerge: 90/150=0.6000, timeout=14
+Progress: 154/373 completed; 8/8 workers ready.
+Progress 155/373; gist_raw_gpt54_fixedmerge: 94/155=0.6065, timeout=14
+Progress: 155/373 completed; 8/8 workers ready.
+Progress: 157/373 completed; 8/8 workers ready.
+Progress: 158/373 completed; 8/8 workers ready.
+Progress 160/373; gist_raw_gpt54_fixedmerge: 97/160=0.6062, timeout=14
+Progress 165/373; gist_raw_gpt54_fixedmerge: 102/165=0.6182, timeout=14
+Progress: 166/373 completed; 8/8 workers ready.
+Progress 170/373; gist_raw_gpt54_fixedmerge: 106/170=0.6235, timeout=14
+Progress: 171/373 completed; 8/8 workers ready.
+Progress 175/373; gist_raw_gpt54_fixedmerge: 110/175=0.6286, timeout=14
+Progress: 176/373 completed; 8/8 workers ready.
+Progress 180/373; gist_raw_gpt54_fixedmerge: 114/180=0.6333, timeout=14
+Progress: 181/373 completed; 8/8 workers ready.
+Progress 185/373; gist_raw_gpt54_fixedmerge: 116/185=0.6270, timeout=14
+Progress 190/373; gist_raw_gpt54_fixedmerge: 120/190=0.6316, timeout=14
+Progress: 190/373 completed; 8/8 workers ready.
+Progress 195/373; gist_raw_gpt54_fixedmerge: 123/195=0.6308, timeout=14
+Progress: 198/373 completed; 8/8 workers ready.
+Progress: 198/373 completed; 8/8 workers ready.
+Progress 200/373; gist_raw_gpt54_fixedmerge: 128/200=0.6400, timeout=14
+Progress: 201/373 completed; 8/8 workers ready.
+Progress: 204/373 completed; 8/8 workers ready.
+Progress 205/373; gist_raw_gpt54_fixedmerge: 131/205=0.6390, timeout=14
+Progress: 209/373 completed; 8/8 workers ready.
+Progress 210/373; gist_raw_gpt54_fixedmerge: 134/210=0.6381, timeout=14
+Progress 215/373; gist_raw_gpt54_fixedmerge: 138/215=0.6419, timeout=14
+Progress 220/373; gist_raw_gpt54_fixedmerge: 141/220=0.6409, timeout=14
+Progress 225/373; gist_raw_gpt54_fixedmerge: 146/225=0.6489, timeout=14
+Progress: 225/373 completed; 8/8 workers ready.
+Progress: 228/373 completed; 8/8 workers ready.
+Progress: 228/373 completed; 8/8 workers ready.
+Progress 230/373; gist_raw_gpt54_fixedmerge: 149/230=0.6478, timeout=14
+Progress: 233/373 completed; 8/8 workers ready.
+Progress: 234/373 completed; 8/8 workers ready.
+Progress 235/373; gist_raw_gpt54_fixedmerge: 150/235=0.6383, timeout=14
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 239/373 completed; 8/8 workers ready.
+Progress 240/373; gist_raw_gpt54_fixedmerge: 151/240=0.6292, timeout=14
+Progress: 240/373 completed; 8/8 workers ready.
+Progress: 240/373 completed; 8/8 workers ready.
+Progress 245/373; gist_raw_gpt54_fixedmerge: 156/245=0.6367, timeout=14
+Progress: 245/373 completed; 8/8 workers ready.
+Progress: 245/373 completed; 8/8 workers ready.
+Progress: 248/373 completed; 8/8 workers ready.
+Progress: 248/373 completed; 8/8 workers ready.
+Progress: 248/373 completed; 8/8 workers ready.
+Progress: 249/373 completed; 8/8 workers ready.
+Progress 250/373; gist_raw_gpt54_fixedmerge: 156/250=0.6240, timeout=14
+Progress: 250/373 completed; 8/8 workers ready.
+Progress 255/373; gist_raw_gpt54_fixedmerge: 158/255=0.6196, timeout=14
+Progress: 255/373 completed; 8/8 workers ready.
+Progress: 256/373 completed; 8/8 workers ready.
+Progress: 256/373 completed; 8/8 workers ready.
+Progress 260/373; gist_raw_gpt54_fixedmerge: 162/260=0.6231, timeout=14
+Progress: 264/373 completed; 8/8 workers ready.
+Progress 265/373; gist_raw_gpt54_fixedmerge: 165/265=0.6226, timeout=14
+Progress 270/373; gist_raw_gpt54_fixedmerge: 170/270=0.6296, timeout=14
+Progress: 272/373 completed; 8/8 workers ready.
+Progress 275/373; gist_raw_gpt54_fixedmerge: 174/275=0.6327, timeout=14
+Progress: 277/373 completed; 8/8 workers ready.
+Progress 280/373; gist_raw_gpt54_fixedmerge: 177/280=0.6321, timeout=14
+Progress: 283/373 completed; 8/8 workers ready.
+Progress 285/373; gist_raw_gpt54_fixedmerge: 182/285=0.6386, timeout=14
+Progress 290/373; gist_raw_gpt54_fixedmerge: 186/290=0.6414, timeout=14
+Progress: 290/373 completed; 8/8 workers ready.
+Progress: 293/373 completed; 8/8 workers ready.
+Progress 295/373; gist_raw_gpt54_fixedmerge: 187/295=0.6339, timeout=14
+Progress 300/373; gist_raw_gpt54_fixedmerge: 191/300=0.6367, timeout=14
+Progress: 300/373 completed; 8/8 workers ready.
+Progress 305/373; gist_raw_gpt54_fixedmerge: 192/305=0.6295, timeout=14
+Progress: 306/373 completed; 8/8 workers ready.
+Progress 310/373; gist_raw_gpt54_fixedmerge: 195/310=0.6290, timeout=14
+Progress 315/373; gist_raw_gpt54_fixedmerge: 199/315=0.6317, timeout=14
+Progress: 316/373 completed; 8/8 workers ready.
+Progress 320/373; gist_raw_gpt54_fixedmerge: 203/320=0.6344, timeout=14
+Progress: 324/373 completed; 8/8 workers ready.
+Progress 325/373; gist_raw_gpt54_fixedmerge: 207/325=0.6369, timeout=14
+Progress 330/373; gist_raw_gpt54_fixedmerge: 210/330=0.6364, timeout=14
+Progress 335/373; gist_raw_gpt54_fixedmerge: 212/335=0.6328, timeout=14
+Progress 340/373; gist_raw_gpt54_fixedmerge: 214/340=0.6294, timeout=14
+Progress: 340/373 completed; 8/8 workers ready.
+Progress 345/373; gist_raw_gpt54_fixedmerge: 216/345=0.6261, timeout=14
+Progress 350/373; gist_raw_gpt54_fixedmerge: 218/350=0.6229, timeout=14
+Progress: 352/373 completed; 8/8 workers ready.
+Progress 355/373; gist_raw_gpt54_fixedmerge: 222/355=0.6254, timeout=14
+Progress 360/373; gist_raw_gpt54_fixedmerge: 222/360=0.6167, timeout=14
+Progress 365/373; gist_raw_gpt54_fixedmerge: 222/365=0.6082, timeout=14
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 0 done.
+Progress: 366/373 completed; 8/8 workers ready.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 1 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 3 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 7 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Progress 370/373; gist_raw_gpt54_fixedmerge: 227/370=0.6135, timeout=14
+Worker 2 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 4 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filegist-clean373-noleak-gpt54-raw-oldprompt-temp0-envkey-c5-20260629-fixedmerge_w8\worker6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 5 done.
+Progress 373/373; gist_raw_gpt54_fixedmerge: 229/373=0.6139, timeout=14
+Worker 6 done.
+[gist_raw_gpt54_fixedmerge] final {'Pass@1': 0.613941018766756, 'Num_computed': 373, 'Num_success': 229, 'Num_failed': 130, 'Num_timeout': 14, 'Num_error': 0}

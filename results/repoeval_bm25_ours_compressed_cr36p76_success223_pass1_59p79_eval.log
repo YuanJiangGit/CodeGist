@@ -1,0 +1,243 @@
+[ours_guarded3676] loaded 0 from empty; pending=373; pass@1_so_far=0.0000
+Starting 8 workers for 373 pending evaluations. Cache root: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8
+Worker 4 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Worker 0 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Worker 3 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Worker 1 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Worker 2 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Worker 5 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Worker 7 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Worker 6 ready: D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Progress 5/373; ours_guarded3676: 4/5=0.8000, timeout=0
+Progress: 7/373 completed; 8/8 workers ready.
+Progress 10/373; ours_guarded3676: 7/10=0.7000, timeout=0
+Progress 15/373; ours_guarded3676: 11/15=0.7333, timeout=0
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress: 15/373 completed; 8/8 workers ready.
+Progress 20/373; ours_guarded3676: 13/20=0.6500, timeout=3
+Progress: 20/373 completed; 8/8 workers ready.
+Progress 25/373; ours_guarded3676: 15/25=0.6000, timeout=6
+Progress 30/373; ours_guarded3676: 18/30=0.6000, timeout=8
+Progress 35/373; ours_guarded3676: 23/35=0.6571, timeout=8
+Progress: 38/373 completed; 8/8 workers ready.
+Progress: 38/373 completed; 8/8 workers ready.
+Progress: 38/373 completed; 8/8 workers ready.
+Progress: 38/373 completed; 8/8 workers ready.
+Progress: 38/373 completed; 8/8 workers ready.
+Progress 40/373; ours_guarded3676: 27/40=0.6750, timeout=9
+Progress 45/373; ours_guarded3676: 30/45=0.6667, timeout=10
+Progress: 47/373 completed; 8/8 workers ready.
+Progress 50/373; ours_guarded3676: 32/50=0.6400, timeout=13
+Progress: 50/373 completed; 8/8 workers ready.
+Progress: 50/373 completed; 8/8 workers ready.
+Progress: 50/373 completed; 8/8 workers ready.
+Progress: 50/373 completed; 8/8 workers ready.
+Progress 55/373; ours_guarded3676: 36/55=0.6545, timeout=13
+Progress: 56/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress: 58/373 completed; 8/8 workers ready.
+Progress 60/373; ours_guarded3676: 39/60=0.6500, timeout=13
+Progress: 64/373 completed; 8/8 workers ready.
+Progress 65/373; ours_guarded3676: 42/65=0.6462, timeout=13
+Progress 70/373; ours_guarded3676: 44/70=0.6286, timeout=13
+Progress: 71/373 completed; 8/8 workers ready.
+Progress 75/373; ours_guarded3676: 45/75=0.6000, timeout=13
+Progress: 78/373 completed; 8/8 workers ready.
+Progress 80/373; ours_guarded3676: 46/80=0.5750, timeout=13
+Progress 85/373; ours_guarded3676: 46/85=0.5412, timeout=13
+Progress: 85/373 completed; 8/8 workers ready.
+Progress: 88/373 completed; 8/8 workers ready.
+Progress 90/373; ours_guarded3676: 49/90=0.5444, timeout=13
+Progress: 90/373 completed; 8/8 workers ready.
+Progress 95/373; ours_guarded3676: 50/95=0.5263, timeout=13
+Progress: 98/373 completed; 8/8 workers ready.
+Progress 100/373; ours_guarded3676: 52/100=0.5200, timeout=13
+Progress: 101/373 completed; 8/8 workers ready.
+Progress: 104/373 completed; 8/8 workers ready.
+Progress 105/373; ours_guarded3676: 56/105=0.5333, timeout=13
+Progress: 107/373 completed; 8/8 workers ready.
+Progress: 109/373 completed; 8/8 workers ready.
+Progress 110/373; ours_guarded3676: 59/110=0.5364, timeout=13
+Progress: 112/373 completed; 8/8 workers ready.
+Progress 115/373; ours_guarded3676: 63/115=0.5478, timeout=13
+Progress: 115/373 completed; 8/8 workers ready.
+Progress: 116/373 completed; 8/8 workers ready.
+Progress 120/373; ours_guarded3676: 66/120=0.5500, timeout=13
+Progress: 120/373 completed; 8/8 workers ready.
+Progress: 124/373 completed; 8/8 workers ready.
+Progress 125/373; ours_guarded3676: 70/125=0.5600, timeout=13
+Progress: 125/373 completed; 8/8 workers ready.
+Progress: 129/373 completed; 8/8 workers ready.
+Progress: 129/373 completed; 8/8 workers ready.
+Progress 130/373; ours_guarded3676: 73/130=0.5615, timeout=13
+Progress: 132/373 completed; 8/8 workers ready.
+Progress 135/373; ours_guarded3676: 77/135=0.5704, timeout=13
+Progress: 135/373 completed; 8/8 workers ready.
+Progress: 136/373 completed; 8/8 workers ready.
+Progress: 138/373 completed; 8/8 workers ready.
+Progress 140/373; ours_guarded3676: 80/140=0.5714, timeout=13
+Progress: 140/373 completed; 8/8 workers ready.
+Progress: 142/373 completed; 8/8 workers ready.
+Progress 145/373; ours_guarded3676: 84/145=0.5793, timeout=13
+Progress: 145/373 completed; 8/8 workers ready.
+Progress 150/373; ours_guarded3676: 88/150=0.5867, timeout=13
+Progress: 151/373 completed; 8/8 workers ready.
+Progress 155/373; ours_guarded3676: 92/155=0.5935, timeout=13
+Progress: 155/373 completed; 8/8 workers ready.
+Progress: 158/373 completed; 8/8 workers ready.
+Progress: 159/373 completed; 8/8 workers ready.
+Progress 160/373; ours_guarded3676: 96/160=0.6000, timeout=13
+Progress 165/373; ours_guarded3676: 100/165=0.6061, timeout=13
+Progress 170/373; ours_guarded3676: 103/170=0.6059, timeout=13
+Progress: 170/373 completed; 8/8 workers ready.
+Progress 175/373; ours_guarded3676: 107/175=0.6114, timeout=13
+Progress: 177/373 completed; 8/8 workers ready.
+Progress 180/373; ours_guarded3676: 111/180=0.6167, timeout=13
+Progress 185/373; ours_guarded3676: 113/185=0.6108, timeout=13
+Progress 190/373; ours_guarded3676: 115/190=0.6053, timeout=13
+Progress 195/373; ours_guarded3676: 116/195=0.5949, timeout=13
+Progress: 198/373 completed; 8/8 workers ready.
+Progress: 198/373 completed; 8/8 workers ready.
+Progress 200/373; ours_guarded3676: 118/200=0.5900, timeout=13
+Progress 205/373; ours_guarded3676: 120/205=0.5854, timeout=13
+Progress: 206/373 completed; 8/8 workers ready.
+Progress 210/373; ours_guarded3676: 122/210=0.5810, timeout=13
+Progress 215/373; ours_guarded3676: 122/215=0.5674, timeout=13
+Progress 220/373; ours_guarded3676: 125/220=0.5682, timeout=13
+Progress 225/373; ours_guarded3676: 129/225=0.5733, timeout=13
+Progress: 225/373 completed; 8/8 workers ready.
+Progress: 229/373 completed; 8/8 workers ready.
+Progress 230/373; ours_guarded3676: 132/230=0.5739, timeout=13
+Progress 235/373; ours_guarded3676: 133/235=0.5660, timeout=13
+Progress: 235/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress: 236/373 completed; 8/8 workers ready.
+Progress 240/373; ours_guarded3676: 133/240=0.5542, timeout=13
+Progress: 240/373 completed; 8/8 workers ready.
+Progress: 244/373 completed; 8/8 workers ready.
+Progress 245/373; ours_guarded3676: 137/245=0.5592, timeout=13
+Progress: 247/373 completed; 8/8 workers ready.
+Progress 250/373; ours_guarded3676: 138/250=0.5520, timeout=13
+Progress: 250/373 completed; 8/8 workers ready.
+Progress: 252/373 completed; 8/8 workers ready.
+Progress: 252/373 completed; 8/8 workers ready.
+Progress: 252/373 completed; 8/8 workers ready.
+Progress: 252/373 completed; 8/8 workers ready.
+Progress 255/373; ours_guarded3676: 139/255=0.5451, timeout=13
+Progress 260/373; ours_guarded3676: 144/260=0.5538, timeout=13
+Progress: 260/373 completed; 8/8 workers ready.
+Progress: 263/373 completed; 8/8 workers ready.
+Progress 265/373; ours_guarded3676: 148/265=0.5585, timeout=13
+Progress: 267/373 completed; 8/8 workers ready.
+Progress 270/373; ours_guarded3676: 152/270=0.5630, timeout=13
+Progress: 270/373 completed; 8/8 workers ready.
+Progress: 274/373 completed; 8/8 workers ready.
+Progress 275/373; ours_guarded3676: 157/275=0.5709, timeout=13
+Progress: 279/373 completed; 8/8 workers ready.
+Progress 280/373; ours_guarded3676: 162/280=0.5786, timeout=13
+Progress 285/373; ours_guarded3676: 167/285=0.5860, timeout=13
+Progress 290/373; ours_guarded3676: 171/290=0.5897, timeout=13
+Progress: 293/373 completed; 8/8 workers ready.
+Progress 295/373; ours_guarded3676: 174/295=0.5898, timeout=13
+Progress 300/373; ours_guarded3676: 178/300=0.5933, timeout=13
+Progress: 303/373 completed; 8/8 workers ready.
+Progress 305/373; ours_guarded3676: 182/305=0.5967, timeout=13
+Progress 310/373; ours_guarded3676: 186/310=0.6000, timeout=13
+Progress 315/373; ours_guarded3676: 190/315=0.6032, timeout=13
+Progress: 315/373 completed; 8/8 workers ready.
+Progress 320/373; ours_guarded3676: 193/320=0.6031, timeout=13
+Progress: 323/373 completed; 8/8 workers ready.
+Progress 325/373; ours_guarded3676: 198/325=0.6092, timeout=13
+Progress 330/373; ours_guarded3676: 201/330=0.6091, timeout=13
+Progress 335/373; ours_guarded3676: 201/335=0.6000, timeout=13
+Progress: 338/373 completed; 8/8 workers ready.
+Progress 340/373; ours_guarded3676: 205/340=0.6029, timeout=13
+Progress 345/373; ours_guarded3676: 208/345=0.6029, timeout=13
+Progress 350/373; ours_guarded3676: 210/350=0.6000, timeout=13
+Progress 355/373; ours_guarded3676: 210/355=0.5915, timeout=13
+Progress: 358/373 completed; 8/8 workers ready.
+Progress 360/373; ours_guarded3676: 213/360=0.5917, timeout=13
+Progress 365/373; ours_guarded3676: 217/365=0.5945, timeout=13
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker1
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 1 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker0
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 0 done.
+Progress: 367/373 completed; 8/8 workers ready.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker3
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 3 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker5
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 5 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker2
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Progress 370/373; ours_guarded3676: 221/370=0.5973, timeout=13
+Worker 2 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker4
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 4 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker7
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Worker 7 done.
+Copying amazon-science_patchcore-inspection to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Copying deepmind_tracr to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Copying facebookresearch_omnivore to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Copying google_lightweight_mmm to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Copying lucidrains_imagen-pytorch to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+Copying maxhumber_redframes to D:\1_1\CodeRAG-Bench\tmp\repoeval_exec_repoeval-function-filebm25-clean373-noleak-gpt54-sketch-ours-guarded3676-oldprompt-temp0-c5-20260626_w8\worker6
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! Timeout !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Progress 373/373; ours_guarded3676: 223/373=0.5979, timeout=13
+Worker 6 done.
+[ours_guarded3676] final {'Pass@1': 0.5978552278820375, 'Num_computed': 373, 'Num_success': 223, 'Num_failed': 137, 'Num_timeout': 13, 'Num_error': 0}

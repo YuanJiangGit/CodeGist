@@ -1,0 +1,14 @@
+# Secrets — never commit real credentials.
+.env
+
+# Run artifacts (compressed output, logs, mined schema sets, stats).
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editors / IDEs
+.idea/
+.vscode/

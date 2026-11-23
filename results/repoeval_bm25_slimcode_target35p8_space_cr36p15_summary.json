@@ -1,0 +1,50 @@
+{
+  "baseline": "SlimCode-Python adapted baseline",
+  "mode": "target_compression_ratio",
+  "delete_categories": null,
+  "target_compression_ratio": 0.358,
+  "compact_removed_symbols": false,
+  "slimcode_category_order_low_to_high": [
+    "symbol",
+    "beyond_category",
+    "structure_non_identifier",
+    "invocation_non_identifier",
+    "identifier",
+    "invocation_identifier",
+    "structure_identifier",
+    "signature"
+  ],
+  "input_dir": "D:\\1_1\\CodeRAG-Bench\\tmp\\repoeval_bm25_filetop5_noleak_doc_instances\\input",
+  "output_dir": "related_work\\SlimCodePython\\results\\repoeval_bm25_slimcode_python_target35p8",
+  "files_compressed": 1865,
+  "files_skipped": 0,
+  "records_syntax_ok": 1865,
+  "orig_tokens_total": 5312854,
+  "comp_tokens_total": 3392135,
+  "compression_ratio": 0.3615230156898721,
+  "compression_ratio_percent": 36.15230156898721,
+  "retention_ratio": 0.6384769843101279,
+  "retention_ratio_percent": 63.84769843101279,
+  "python_tokens_total": 3095313,
+  "python_tokens_removed": 1898599,
+  "python_token_removal_ratio": 0.6133786793128837,
+  "category_counts_total": {
+    "symbol": 1511449,
+    "beyond_category": 162355,
+    "structure_non_identifier": 90349,
+    "invocation_non_identifier": 86900,
+    "identifier": 302436,
+    "invocation_identifier": 576601,
+    "structure_identifier": 101458,
+    "signature": 263765
+  },
+  "removed_counts_total": {
+    "symbol": 1511449,
+    "beyond_category": 153166,
+    "structure_non_identifier": 69529,
+    "invocation_non_identifier": 60932,
+    "identifier": 97892,
+    "invocation_identifier": 5631
+  },
+  "note": "Token-sketch related-work baseline; output is not guaranteed to be valid Python. Target-ratio mode follows SlimCode category order and removes same-category tokens from right to left. With compact_removed_symbols=true, removed symbol spans are deleted directly rather than rendered through tokenize.untokenize."
+}
